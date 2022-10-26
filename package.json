@@ -1,0 +1,19 @@
+{
+  "name": "disc-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Julius Caezar Coros <72971299+juliusdayo@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord-interactions": "^3.2.0",
+    "discord.js": "^14.6.0",
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.10",
+    "nodemon": "^2.0.20"
+  }
+}
